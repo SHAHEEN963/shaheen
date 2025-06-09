@@ -91,9 +91,6 @@ const Blog = () => {
     },
   ]);
 
-  useEffect(() => {
-    console.log("blogs", blogs);
-  }, [blogs]);
 
   var settings = {
     dots: true,

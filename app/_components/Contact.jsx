@@ -86,24 +86,17 @@ const Contact = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log("submit");
     setTime(new Date().toISOString());
   };
   useEffect(() => {
-    console.log(
-      time,
-      process.env.NEXT_PUBLIC_EMAILJS_SERVICE_ID,
-      process.env.NEXT_PUBLIC_EMAILJS_TEMPLATE_ID,
-      process.env.NEXT_PUBLIC_EMAILJS_PUBLIC_KEY
-    );
     if (time) {
       emailjs
         .sendForm(
-          process.env.NEXT_PUBLIC_EMAILJS_SERVICE_ID,
-          process.env.NEXT_PUBLIC_EMAILJS_TEMPLATE_ID,
+          "service_j6wtqdb",
+          "template_6haeiff",
           ref.current,
           {
-            publicKey: process.env.NEXT_PUBLIC_EMAILJS_PUBLIC_KEY,
+            publicKey: "45XKmG0e0ncEbiSbC",
           }
         )
         .then(

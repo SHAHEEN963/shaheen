@@ -170,9 +170,6 @@ const Portfolio = () => {
       setProjects([...projects, ...moreProjects]);
     }
   }, [showAll]);
-  useEffect(() => {
-    console.log("projects", projects);
-  }, [projects]);
 
   const toggleShowAll = () => setShowAll(true);
   var settings = {
