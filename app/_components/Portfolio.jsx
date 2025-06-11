@@ -65,7 +65,7 @@ const Portfolio = () => {
       category: "UI/UX Design",
       description:
         "A platform focused on identifying security bugs in Syrian websites.",
-      link: "https://www.google.com/",
+      link: "https://www.behance.net/shaheen-",
       poster: {
         _type: "image",
         asset: {
@@ -79,7 +79,7 @@ const Portfolio = () => {
       category: "UI/UX Design",
       description:
         "A specialized mobile app providing healthy food with a different details.",
-      link: "https://www.google.com/",
+      link: "https://www.behance.net/gallery/184799619/Good-Food-App-UIUX-Case-Study",
       poster: {
         _type: "image",
         asset: {
@@ -93,7 +93,7 @@ const Portfolio = () => {
       category: "Visual Identity",
       description:
         "This identity reflects my passion for creating visuals that embody a brand's essence.",
-      link: "https://www.google.com/",
+      link: "https://www.behance.net/gallery/210914617/Personal-Brand-Shaheen-Typography",
       poster: {
         _type: "image",
         asset: {
@@ -107,7 +107,7 @@ const Portfolio = () => {
       category: "UI/UX Design",
       description:
         "Highlights my expertise in crafting seamless digital experiences.",
-      link: "https://www.google.com/",
+      link: "https://www.behance.net/shaheen-",
       poster: {
         _type: "image",
         asset: {
@@ -121,7 +121,7 @@ const Portfolio = () => {
       category: "UI/UX Design",
       description:
         "An AI-powered platform identifies and organizes the top-rated websites.",
-      link: "https://www.google.com/",
+      link: "https://www.behance.net/shaheen-",
       poster: {
         _type: "image",
         asset: {
@@ -135,7 +135,7 @@ const Portfolio = () => {
       category: "UI/UX Design",
       description:
         "The first Syrian platform for promoting brands through content creators.",
-      link: "https://www.google.com/",
+      link: "https://www.behance.net/shaheen-",
       poster: {
         _type: "image",
         asset: {
@@ -153,7 +153,7 @@ const Portfolio = () => {
       category: "Visual Identity",
       description:
         "This identity reflects my passion for creating visuals that embody a brand's essence.",
-      link: "https://www.google.com/",
+      link: "https://www.behance.net/shaheen-",
       poster: {
         _type: "image",
         asset: {
