@@ -67,17 +67,16 @@ const Experience = () => {
         </div>
         {/* info-side */}
         <div className="max-w-[536px] lg:text-left text-center">
-          <h3 className="xl:text-[38px] font-semibold md:text-3xl text-2xl text-tprimary md:leading-[50px] md:mb-8 mb-4">
-            I am Professional User Experience Designer
+          <h3 className="xl:text-[32px] font-semibold md:text-[20px] text-[16px] text-tprimary md:leading-[50px] md:mb-8 mb-4">
+            I am a Creative UI/UX Designer
           </h3>
           <p className="text-lg text-[#556070] mb-4 tracking-wide">
-            I design and develop services for customers specializing in creating
-            stylish, modern websites, web services and online stores. My passion
-            is to design digital user experiences.
+            I design and develop digital solutions for clients, including stylish, modern websites, desktop and web applications, dashboards, and online stores.
           </p>
           <p className="text-lg text-[#556070] mb-4 tracking-wide">
-            Highly experienced in working with international teams and clients.
-            I design digital products with enterprises and startups since 2023.
+            I bridge the gap between design and development , creating pixel-perfect interfaces that are as functional as they are beautiful.
+            <br /> <br />
+            
           </p>
           <div className="flex md:flex-row flex-col justify-center lg:justify-start gap-4">
             <Link

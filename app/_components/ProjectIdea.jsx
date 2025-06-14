@@ -13,8 +13,8 @@ const ProjectIdea = () => {
           <br /> Let's discuss your project!
         </h2>
         <p className="text-[#A5ACB5] text-lg md:my-8 my-6 tracking-wide">
-          There are many variations of passages of Lorem Ipsum available, <br />{" "}
-          but the majority have suffered alteration.
+          Whether you are launching a new product, refreshing your brand, or solving a complex user experience challenge. <br />{" "}
+          I transform ideas into exceptional digital solutions.
         </p>
         <Link
           className="group relative inline-flex items-center overflow-hidden md:w-auto w-full justify-center rounded bg-primary px-8 py-3 text-white focus:ring-3 focus:outline-hidden"

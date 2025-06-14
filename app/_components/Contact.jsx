@@ -125,8 +125,7 @@ const Contact = () => {
             Let's discuss your Project
           </h3>
           <p className="text-lg text-tsecondary xl:mb-9 lg:mb-6 mb-4 lg:text-left text-center w-fit px-1 tracking-wide">
-            There are many variations of passages of Lorem Ipsum available. but
-            the majority have suffered alte.
+            Share your vision with me, and I will craft a tailored strategy to achieve your goals.
           </p>
           <div className="flex flex-col gap-3 xl:mb-9 lg:mb-6 mb-4 ">
             {contacts.map((contact, i) => (
@@ -157,8 +156,8 @@ const Contact = () => {
         {/* form */}
         <div className="lg:max-w-[50%]">
           <p className="text-tsecondary text-lg lg:text-left text-center lg:mb-12 mb-8 tracking-wide">
-            There are many variations of passages of Lorem Ipsum available. but
-            the majority have suffered alte.
+            Ready to start your project? Complete the form below and I'll respond within 24 hours to discuss next steps.  <br />{" "} <br />{" "}
+            Let's create something remarkable together.
           </p>
           <form
             onSubmit={(e) => handleSubmit(e)}

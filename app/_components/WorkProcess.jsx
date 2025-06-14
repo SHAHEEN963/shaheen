@@ -66,10 +66,9 @@ const WorkProcess = () => {
             Work Process
           </h2>
           <p className="xl:text-2xl text-lg mb-4 text-tsecondary">
-            Our streamlined process ensures efficiency and excellence at every
-            stage.
+            Our proven process ensures efficiency at every stage of your UX/UI project.
           </p>
-          <p className="xl:text-2xl text-lg text-tsecondary">
+          <p className="xl:text-xl text-base text-tsecondary">
             We begin with in-depth research to understand your goals, analyze
             data to craft a strategic plan, design user-centric solutions that
             blend functionality with aesthetics, and finally launch the project

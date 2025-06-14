@@ -6,22 +6,22 @@ import { motion } from "motion/react"
 
 const Card = ({ title, text }) => (
   <div className="hover:border-l-[5px] hover:translate-x-4 transition-all bg-white border-l-primary rounded-md shadow-card p-8">
-    <h3 className="text-tprimary">{title}</h3>
+    <h3 className="text-tprimary font-bold">{title}</h3>
     <p className="text-tsecondary tracking-wide">{text}</p>
   </div>
 );
 const data = [
   {
     title: "User Experience (UX) Design",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla purus arcu, varius eget velit non, laoreet imperdiet orci. Mauris ultrices eget lorem ac vestibulum.",
+    text: "I architect seamless user journeys through deep research, persona development, and interaction mapping.",
   },
   {
     title: "User Interface (UI) Design",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla purus arcu, varius eget velit non, laoreet imperdiet orci. Mauris ultrices eget lorem ac vestibulum.",
+    text: "I craft visually stunning interfaces grounded in design systems and accessibility standards.",
   },
   {
     title: "Visual Identity Design",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla purus arcu, varius eget velit non, laoreet imperdiet orci. Mauris ultrices eget lorem ac vestibulum.",
+    text: "I create magic brands that tell powerful stories - from strategic colors and logos to consistent experiences across all platforms. ",
   },
 ];
 const WhatIDo = () => {
@@ -36,13 +36,11 @@ const WhatIDo = () => {
             What I do?
           </h2>
           <p className="text-tsecondary text-lg mb-4 tracking-wide">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla purus
-            arcu, varius eget velit non, laoreet imperdiet orci. Mauris ultrices
-            eget lorem ac vestibulum. Suspendis imperdiet,
+            I transform complex problems into intuitive, human-centered solutions. 
+            Through research-driven design and strategic thinking, I create meaningful experiences that bridge user needs with business goals.
           </p>
           <p className="text-tsecondary text-lg tracking-wide">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla purus
-            arcu, varius eget velit non.
+             Every pixel serves a purpose in my mission to make technology feel effortless.
           </p>
           <Link
             href="#contact"

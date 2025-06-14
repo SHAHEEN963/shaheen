@@ -124,8 +124,7 @@ const Blog = () => {
     >
       <h2 className="text-5xl leading-[56px] mb-6">My Blog</h2>
       <p className="text-tsecondary text-lg mb-16 max-w-[650px] mx-auto">
-        There are many variations of passages of Lorem Ipsum available, but the
-        majority have suffered alteration.
+        I share practical knowledge to help you create more meaningful and powerful digital experiences
       </p>
       <Slider {...settings}>
         {blogs.map((blog) => {
