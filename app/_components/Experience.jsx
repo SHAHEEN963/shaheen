@@ -67,7 +67,7 @@ const Experience = () => {
         </div>
         {/* info-side */}
         <div className="max-w-[536px] lg:text-left text-center">
-          <h3 className="xl:text-[32px] font-semibold md:text-[20px] text-[16px] text-tprimary md:leading-[50px] md:mb-8 mb-4">
+          <h3 className="xl:text-[32px] font-semibold md:text-[20px] text-[20px] text-tprimary md:leading-[50px] md:mb-8 mb-4">
             I am a Creative UI/UX Designer
           </h3>
           <p className="text-lg text-[#556070] mb-4 tracking-wide">
@@ -80,7 +80,7 @@ const Experience = () => {
           </p>
           <div className="flex md:flex-row flex-col justify-center lg:justify-start gap-4">
             <Link
-              className="flex items-center rounded tracking-wider md:w-auto w-full bg-primary px-6 py-3 text-base font-semibold text-white transition hover:scale-110 hover:shadow-xl focus:outline-hidden"
+              className="flex items-center rounded tracking-wider md:w-auto w-full justify-center bg-primary px-6 py-3 text-base font-semibold text-white transition hover:scale-110 hover:shadow-xl focus:outline-hidden"
               href="#portfolio"
             >
               My Projects
