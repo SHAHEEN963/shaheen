@@ -24,7 +24,7 @@ const Card = ({ img, category, title, text, url }) => (
       alt={title}
       width={424}
       height={248}
-      className="shadow-mdd w-full"
+      className="shadow-md w-full"
       priority
     />
     <div className="p-8 xl:h-auto min-h-[257.6px]">
@@ -107,7 +107,7 @@ const Portfolio = () => {
       category: "UI/UX Design",
       description:
         "Highlights my expertise in crafting seamless digital experiences.",
-      link: "https://www.behance.net/shaheen-",
+      link: "https://www.behance.net/gallery/228178855/UIUX-Portfolio-Design",
       poster: {
         _type: "image",
         asset: {

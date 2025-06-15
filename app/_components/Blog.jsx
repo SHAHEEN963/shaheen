@@ -31,7 +31,7 @@ const Card = ({ img, date, title, url }) => (
       alt={title}
       width={424}
       height={248}
-      className="shadow-mdd w-full"
+      className="shadow-md w-full"
     />
     <div className="p-6 ">
       <p className="text-sm text-tsecondary mb-2">{formatDate(date)}</p>
@@ -43,8 +43,8 @@ const Blog = () => {
   const [blogs, setBlogs] = useState([
     {
       blogName: "Top Tools Every UX Designer Should Know About in 2025",
-      date: "2020-10-22T19:15:00.000Z",
-      link: "https://www.google.com/",
+      date: "2025-05-22T19:15:00.000Z",
+      link: "https://medium.com/@shaheen-",
       poster: {
         _type: "image",
         asset: {
@@ -55,8 +55,8 @@ const Blog = () => {
     },
     {
       blogName: "Top 10 Resources to Kickstart Careers in UI Design",
-      date: "2020-10-22T19:15:00.000Z",
-      link: "https://www.google.com/",
+      date: "2025-06-22T19:15:00.000Z",
+      link: "https://medium.com/@shaheen-",
       poster: {
         _type: "image",
         asset: {
@@ -67,8 +67,8 @@ const Blog = () => {
     },
     {
       blogName: "The Key Differences Between UI and UX Design",
-      date: "2025-01-26T20:43:59.610Z",
-      link: "https://www.google.com/",
+      date: "2025-04-26T20:43:59.610Z",
+      link: "https://medium.com/@shaheen-",
       poster: {
         _type: "image",
         asset: {
@@ -79,8 +79,8 @@ const Blog = () => {
     },
     {
       blogName: "Top 10 UI/UX Trends to Watch in 2025",
-      date: "2020-10-22T19:15:00.000Z",
-      link: "https://www.google.com/",
+      date: "2025-03-22T19:15:00.000Z",
+      link: "https://medium.com/@shaheen-",
       poster: {
         _type: "image",
         asset: {
