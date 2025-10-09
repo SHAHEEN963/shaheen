@@ -11,7 +11,7 @@ import project3 from "../../public/images/portfolio/project3.webp";
 import project4 from "../../public/images/portfolio/project4.webp";
 import project5 from "../../public/images/portfolio/project5.webp";
 import project6 from "../../public/images/portfolio/project6.webp";
-import project6 from "../../public/images/portfolio/project7.webp";
+import project7 from "../../public/images/portfolio/project7.webp";
 import { fadeInAnimation } from "./PageAnimation";
 
 
