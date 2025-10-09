@@ -11,6 +11,7 @@ import project3 from "../../public/images/portfolio/project3.webp";
 import project4 from "../../public/images/portfolio/project4.webp";
 import project5 from "../../public/images/portfolio/project5.webp";
 import project6 from "../../public/images/portfolio/project6.webp";
+import project6 from "../../public/images/portfolio/project7.webp";
 import { fadeInAnimation } from "./PageAnimation";
 
 
@@ -64,12 +65,12 @@ const Portfolio = () => {
     {
       category: "UI/UX Design",
       description:
-        "A platform focused on identifying security bugs in Syrian websites.",
-      link: "https://www.behance.net/shaheen-",
+        "Almanara Domestic Courier Shipping: Case Study",
+      link: "https://www.behance.net/gallery/236251111/Almanara-Domestic-Courier-Case-Study",
       poster: {
         _type: "image",
         asset: {
-          _ref: project1,
+          _ref: project7,
           _type: "reference",
         },
       },
@@ -150,18 +151,18 @@ const Portfolio = () => {
 
   const moreProjects = [
     {
-      category: "Visual Identity",
+      category: "UI/UX Design",
       description:
-        "This identity reflects my passion for creating visuals that embody a brand's essence.",
+        "A platform focused on identifying security bugs in Syrian websites.",
       link: "https://www.behance.net/shaheen-",
       poster: {
         _type: "image",
         asset: {
-          _ref: project3,
+          _ref: project1,
           _type: "reference",
         },
       },
-      projectname: "Shaheen Visual Identity",
+      projectname: "Bug Bounty Arab Website",
     },
   ];
 

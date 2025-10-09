@@ -3,17 +3,17 @@ import CountUp from "react-countup"
 
 const countersData = [
     {
-        num: 3,
+        num: 4,
         title: " Years",
         subtitle: "Experience",
     },
     {
-        num: 11,
+        num: 15,
         title: "+",
         subtitle: "Project Completed",
     },
     {
-        num: 6,
+        num: 8,
         title: "+",
         subtitle: "Happy Client",
     },
