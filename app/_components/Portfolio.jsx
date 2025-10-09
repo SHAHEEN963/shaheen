@@ -65,7 +65,7 @@ const Portfolio = () => {
     {
       category: "UI/UX Design",
       description:
-        "Almanara Domestic Courier Shipping: Case Study",
+        "Al-Manara app modernizes shipping in Syria with easy, reliable, and tech-driven delivery solutions.",
       link: "https://www.behance.net/gallery/236251111/Almanara-Domestic-Courier-Case-Study",
       poster: {
         _type: "image",
@@ -74,7 +74,7 @@ const Portfolio = () => {
           _type: "reference",
         },
       },
-      projectname: "Bug Bounty Arab Website",
+      projectname: "Almanara Domestic Courier",
     },
     {
       category: "UI/UX Design",
@@ -136,7 +136,7 @@ const Portfolio = () => {
       category: "UI/UX Design",
       description:
         "The first Syrian platform for promoting brands through content creators.",
-      link: "https://www.behance.net/shaheen-",
+      link: "https://www.behance.net/gallery/236254745/Double-B-(UGC-Platform)-UIUX-Design",
       poster: {
         _type: "image",
         asset: {

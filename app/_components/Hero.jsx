@@ -35,7 +35,7 @@ const Hero = () => {
               <p className="relative left-0.5 z-10">Product Designer</p>
               <div className="absolute inset-0 left-0 h-full animate-stretch -z-0 bg-beige-to-transparent "></div>
             </div>{" "}
-            designing digital products with enterprises and startups since 2023.
+            designing digital products with enterprises and startups since 2022.
             Highly experienced in working with international teams and clients,
             seeking a new challenge to user-centered designs that enhance
             usability, engagement, and business goals.
